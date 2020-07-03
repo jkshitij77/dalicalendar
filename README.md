@@ -1,3 +1,17 @@
+# DaliCalendar
+
+#### This project was created for 'DALI WebDev Mini Course' by team 'HTMLMAO'
+#### This is not a solo project and has been heavily collaborated upon with Makayla Dixon, Eleanor Amer and Sarah Colin - May 2020
+
+HTMLMAO is a team of Dartmouth students. We found the need for a calendar which made keeping track of club events easier for Dartmouth students. In response, we built this website as an initial prototype.
+
+I personally plan to work on this and make it a more comrehensive and interactive website with the otpion to add club events, make club IDs and Individual IDs, link with DUO to make sure the said person is a Dartmouth student. Possible, we will implement the said features in a flutter rendition of the project to make a mobile application at the same time
+
+#### 
+#### 
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,4 +80,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# dalicalendar
